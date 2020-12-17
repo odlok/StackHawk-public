@@ -1,4 +1,5 @@
 Kandidatnummer: 10139
+The answers to the tasks are in brukerliste.html, brukerliste.js and edit-user.js
 # PROG2053 eksamen v2020
 * Lag en FORK av dette repositoriet og gi meg leserettigheter (aland.a.mendoza@ntnu.no). Det som er i repositoriet på slutten av eksamen teller som din besvarelse.
 * Legg inn kandidatnummeret ditt øverst i readme.md fila.
